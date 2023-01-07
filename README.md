@@ -1,0 +1,1 @@
+# fizik_jarayonlarni_kompyuterda_modellashtirish
